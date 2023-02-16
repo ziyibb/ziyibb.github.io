@@ -16,4 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Ziyi. I am a master student at University of Paris I.
+Hello! My name is Ziyi. I am a master student at [Université Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/). Previously, I obtained my BA in linguistic from [Université Sorbonne](https://www.sorbonne-universite.fr/) and BMgt in tourism management from [Beijing Forestry University](http://english.bjfu.edu.cn/).
